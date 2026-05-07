@@ -1,9 +1,1 @@
-2026/05/07-17:04:56.269 35a4 Log #3: 3 ops saved to Table #7 OK
-2026/05/07-17:04:56.277 35a4 Archiving C:\Users\ktc\Documents\purojyue\MyProject\Saved\webcache_6613\Default\Site Characteristics Database/000003.log: OK
-2026/05/07-17:04:56.279 35a4 Log #6: 2 ops saved to Table #8 OK
-2026/05/07-17:04:56.280 35a4 Archiving C:\Users\ktc\Documents\purojyue\MyProject\Saved\webcache_6613\Default\Site Characteristics Database/000006.log: OK
-2026/05/07-17:04:56.280 35a4 Table #4: 3 entries OK
-2026/05/07-17:04:56.280 35a4 Table #7: 3 entries OK
-2026/05/07-17:04:56.280 35a4 Table #8: 2 entries OK
-2026/05/07-17:04:56.282 35a4 Archiving C:\Users\ktc\Documents\purojyue\MyProject\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/05/07-17:04:56.286 35a4 **** Repaired leveldb C:\Users\ktc\Documents\purojyue\MyProject\Saved\webcache_6613\Default\Site Characteristics Database; recovered 3 files; 604 bytes. Some data may have been lost. ****
+2026/05/07-17:04:56.289 35a4 Reusing MANIFEST C:\Users\ktc\Documents\purojyue\MyProject\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
