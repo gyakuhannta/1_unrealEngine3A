@@ -1,89 +1,11 @@
-[22032:21700:1015/164322.311:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[22032:16832:1015/164322.502:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[22032:21700:1015/164322.579:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[22032:16832:1015/164325.643:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ktc\Documents\1_unrealEngine3A\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\ktc\Documents\1_unrealEngine3A\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[22032:16832:1015/164325.645:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ktc\Documents\1_unrealEngine3A\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\ktc\Documents\1_unrealEngine3A\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[22032:16832:1015/164325.649:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ktc\Documents\1_unrealEngine3A\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\ktc\Documents\1_unrealEngine3A\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[22032:16832:1015/164325.651:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ktc\Documents\1_unrealEngine3A\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\ktc\Documents\1_unrealEngine3A\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[22032:12816:1015/164326.358:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[22032:12816:1015/164326.359:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[20080:17668:1015/164326.361:WARNING:backend_impl.cc(1764)] Destroying invalid entry.
-[23180:9200:1015/164327.025:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-948DE40E0BB87AC1699C6B2C40C6184B will be ignored
-[20080:21056:1015/164328.181:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 5
-[21756:22228:1015/164328.281:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[21756:11752:1015/164328.322:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[21756:11752:1015/164328.322:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[21756:11752:1015/164328.323:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[20080:21056:1015/164328.894:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
-[20080:21056:1015/164328.894:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
-[20080:21056:1015/164328.895:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
-[20080:21056:1015/164328.900:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
-[20080:21056:1015/164328.904:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
-[20080:21056:1015/164328.904:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
-[20080:21056:1015/164328.908:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
-[20080:21056:1015/164328.908:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
-[20080:21056:1015/164328.908:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
-[20080:21056:1015/164328.911:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
-[20080:21056:1015/164328.911:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
-[20080:21056:1015/164328.911:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
-[20080:21056:1015/164328.911:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
-[20080:21056:1015/164328.911:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
-[20080:21056:1015/164328.911:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
-[20080:21056:1015/164328.930:WARNING:net_errors_win.cc(119)] Unknown error 10055 mapped to net::ERR_FAILED
-[20080:17668:1015/164329.206:ERROR:backend_impl.cc(989)] Critical error found -8
-[20080:17668:1015/164329.207:WARNING:storage_block-inl.h(138)] Failed data load.
-[20080:17668:1015/164329.207:ERROR:entry_impl.cc(1029)] No file for b2020008
-[20080:17668:1015/164329.207:WARNING:storage_block-inl.h(138)] Failed data load.
-[21756:11752:1015/164329.228:WARNING:stun_port.cc(442)] Port[102fc00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[21756:11752:1015/164329.229:WARNING:stun_port.cc(442)] Port[1380800:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[21756:11752:1015/164329.229:WARNING:stun_port.cc(442)] Port[1381000:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[21756:11752:1015/164329.229:WARNING:stun_port.cc(442)] Port[102fc00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[21756:11752:1015/164329.229:WARNING:stun_port.cc(442)] Port[1380800:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[21756:11752:1015/164329.229:WARNING:stun_port.cc(442)] Port[1381000:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[21756:11752:1015/164329.229:WARNING:stun_port.cc(442)] Port[102fc00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[21756:11752:1015/164329.229:WARNING:stun_port.cc(442)] Port[1380800:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[21756:11752:1015/164329.229:WARNING:stun_port.cc(442)] Port[1381000:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[20080:21056:1015/164329.539:WARNING:net_errors_win.cc(119)] Unknown error 10055 mapped to net::ERR_FAILED
-[22032:15880:1015/164329.548:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
-[22032:21700:1015/164330.195:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[22032:21700:1015/164330.195:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[22032:21700:1015/164330.195:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[22032:21700:1015/164330.195:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[22032:15880:1015/164330.201:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[19884:16784:1015/164331.525:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[19884:1740:1015/164331.585:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[19884:1740:1015/164331.585:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[19884:1740:1015/164331.585:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[20080:21056:1015/164331.889:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
-[20080:21056:1015/164331.890:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
-[20080:21056:1015/164331.890:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
-[20080:21056:1015/164331.896:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
-[20080:21056:1015/164331.896:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
-[20080:21056:1015/164331.896:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
-[20080:21056:1015/164331.896:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
-[20080:21056:1015/164331.896:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
-[20080:21056:1015/164331.896:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
-[20080:21056:1015/164331.896:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
-[20080:21056:1015/164331.896:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
-[19884:1740:1015/164331.896:WARNING:stun_port.cc(442)] Port[1239000:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[19884:1740:1015/164331.896:WARNING:stun_port.cc(442)] Port[1239800:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[20080:21056:1015/164331.896:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
-[19884:1740:1015/164331.896:WARNING:stun_port.cc(442)] Port[123a000:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[19884:1740:1015/164331.896:WARNING:stun_port.cc(442)] Port[1239000:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[19884:1740:1015/164331.896:WARNING:stun_port.cc(442)] Port[1239800:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[19884:1740:1015/164331.896:WARNING:stun_port.cc(442)] Port[123a000:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[20080:21056:1015/164331.896:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
-[20080:21056:1015/164331.896:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
-[20080:21056:1015/164331.896:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
-[19884:1740:1015/164331.897:WARNING:stun_port.cc(442)] Port[1239000:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[19884:1740:1015/164331.897:WARNING:stun_port.cc(442)] Port[1239800:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[19884:1740:1015/164331.897:WARNING:stun_port.cc(442)] Port[123a000:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[20080:21056:1015/164332.893:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 25
-[19884:16784:1015/164335.584:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[22032:21700:1015/164448.987:ERROR:device_event_log_impl.cc(196)] [16:44:48.856] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 要素が見つかりません。 (0x490)
-[22032:21700:1015/164457.657:ERROR:device_event_log_impl.cc(196)] [16:44:57.346] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 要素が見つかりません。 (0x490)
-[22032:21700:1015/164532.843:ERROR:device_event_log_impl.cc(196)] [16:45:20.033] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 要素が見つかりません。 (0x490)
-[11868:12424:1015/164542.905:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[11868:12424:1015/164542.906:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[22032:21700:1015/164628.705:ERROR:device_event_log_impl.cc(196)] [16:46:28.497] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 要素が見つかりません。 (0x490)
-[22032:21700:1015/182126.221:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[19024:22848:1015/182256.270:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[19024:4000:1015/182256.305:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[19024:22848:1015/182256.329:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[19024:22688:1015/182258.469:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ktc\Documents\1_unrealEngine3A\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\ktc\Documents\1_unrealEngine3A\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[19024:22688:1015/182258.472:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ktc\Documents\1_unrealEngine3A\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\ktc\Documents\1_unrealEngine3A\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[19024:22688:1015/182258.475:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ktc\Documents\1_unrealEngine3A\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\ktc\Documents\1_unrealEngine3A\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[19024:22688:1015/182258.477:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ktc\Documents\1_unrealEngine3A\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\ktc\Documents\1_unrealEngine3A\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[19024:20264:1015/182258.932:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[19024:20264:1015/182258.933:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17732:11884:1015/182259.765:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-D9410DF1A9BAF164CF57908D4D2687C9 will be ignored
+[19024:22848:1015/195049.962:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
